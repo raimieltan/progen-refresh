@@ -6,9 +6,7 @@ const BlogsSection = () => {
     <div className="text-white pb-20   mx-10 flex flex-col">
       <div className="" />
 
-
       <div className="flex  flex-col md:flex-row mt-12 justify-between w-full">
-
         <div className="w-full md:w-[60%] flex">
           <img
             src={"/BlogsAssets/GinoBlogsAssets/GinoHeader.png"}
@@ -33,9 +31,6 @@ const BlogsSection = () => {
         </div>
       </div>
 
-
-
-      {/*Map this instead*/}
       <div className="flex flex-col md:flex-row mt-12 justify-between w-full">
         <div className="w-full md:w-[60%] flex">
           <img
@@ -64,7 +59,9 @@ const BlogsSection = () => {
       <div className="flex flex-col md:flex-row mt-12 justify-between w-full">
         <div className="w-full md:w-[60%] flex">
           <img
-            src={"/BlogsAssets/BeautyOfStruggleBlogs/InterstellarGroupPhoto.webp"}
+            src={
+              "/BlogsAssets/BeautyOfStruggleBlogs/InterstellarGroupPhoto.webp"
+            }
             alt=""
             className="flex rounded-lg"
           />
