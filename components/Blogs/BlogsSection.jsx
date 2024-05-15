@@ -16,7 +16,7 @@ const BlogsSection = () => {
             className="flex rounded-lg"
           />
         </div>
-        {/*Right */}
+
         <div className="w-full md:w-[40%] flex flex-col md:ml-14 my-4 mr-4 space-y-4">
           <Link href={"/blog/CreativeDirection"}>
             <h1 className=" text-xl md:text-3xl text-white font-bold  cursor-pointer">
