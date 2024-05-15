@@ -28,6 +28,7 @@ const HeroSection = () => {
     "WARP",
     "PROMISES",
   ];
+  console.log("test")
   const click = () => {
     if (activeText === textArray.length - 1) {
       setActiveText(0);
