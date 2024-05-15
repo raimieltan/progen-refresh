@@ -6,9 +6,9 @@ const BlogsSection = () => {
     <div className="text-white pb-20   mx-10 flex flex-col">
       <div className="" />
 
-      {/*Gino's Story*/}
+
       <div className="flex  flex-col md:flex-row mt-12 justify-between w-full">
-        {/*left */}
+
         <div className="w-full md:w-[60%] flex">
           <img
             src={"/BlogsAssets/GinoBlogsAssets/GinoHeader.png"}
